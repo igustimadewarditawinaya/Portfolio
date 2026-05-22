@@ -22,7 +22,7 @@ Project-project ini berfokus pada:
 
 📌 File portfolio lengkap dapat dilihat pada:
 
-[📥 Download Portfolio PDF](portfolio.pdf)
+[📥 Download Portfolio PDF](Portfolio.pdf)
 
 Portfolio PDF berisi:
 - Profil singkat
