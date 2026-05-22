@@ -166,41 +166,10 @@ Project machine learning dan image classification menggunakan Python dan TensorF
 
 ---
 
-# 📷 Dashboard Preview
-
-## Power BI Dashboard
-
-<img src="Dashboard/powerbi_dashboard.png" width="1000">
-
----
-
-## Tableau Dashboard
-
-<img src="Dashboard/tableau_dashboard.png" width="1000">
-
----
 
 # 🌐 Interactive Dashboards
 
 ## Tableau Public
-- 🔗 https://public.tableau.com/
+- 🔗 [https://public.tableau.com/](https://public.tableau.com/app/profile/i.gusti.made.wardita.winaya/vizzes)
 
 ---
-
-# 📂 Repository Structure
-
-```bash
-Data-Analyst-Portfolio/
-│
-├── Dashboard/
-│   ├── powerbi_dashboard.png
-│   ├── tableau_dashboard.png
-│
-├── Projects/
-│   ├── Classic-Model/
-│   ├── Washington-EV-Dashboard/
-│   ├── Bike-Sales-Dashboard/
-│   ├── Netflix-Analysis/
-│
-├── portfolio.pdf
-├── README.md
